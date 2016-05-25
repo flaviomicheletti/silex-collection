@@ -1,0 +1,12 @@
+{
+    "require": {
+        "silex/silex": "^2.0",
+        "twig/twig": "^1.24",
+        "symfony/twig-bridge": "^3.0",
+        "symfony/validator": "^3.0",
+        "monolog/monolog": "^1.19",
+        "symfony/asset": "^3.0"
+    },
+    "require-dev": {
+    }
+}
